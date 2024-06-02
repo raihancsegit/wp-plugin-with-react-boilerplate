@@ -1,0 +1,100 @@
+.shopgrowth-content {
+  background-color: #f0f0f0;
+  min-height: 500px;
+}
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.shopgrowth-general-section ul {
+  padding-left: 0;
+}
+
+.shopgrowth-general-section ul li a {
+  margin-left: 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.shopgrowth-general-section ul li a:hover {
+  color: #0d6efd !important;
+}
+.shopgrowth-general-section ul li svg {
+  font-size: 14px;
+}
+.shopgrowth-general-section ul li {
+  line-height: 30px;
+}
+.shopgrowth-general-section {
+  margin-top: 35px;
+}
+.shopgrowth-general-section h5 {
+  margin-bottom: 15px;
+}
+.shopgrowth-docs-section ul {
+  padding-left: 0;
+}
+.shopgrowth-docs-section ul li span {
+  margin-left: 10px;
+  font-size: 14px;
+}
+.shopgrowth-docs-section ul li svg {
+  font-size: 14px;
+}
+.shopgrowth-docs-section ul li {
+  line-height: 30px;
+}
+.shopgrowth-docs-section {
+  margin-top: 35px;
+}
+.shopgrowth-docs-section h5 {
+  margin-bottom: 15px;
+}
+.shopgrowth-content .card {
+  padding: 0;
+}
+.cards-footer {
+  border-top: 1px solid #aaa8a8;
+  padding: 0px 15px;
+}
+.cards-footer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 15px;
+  align-items: center;
+}
+.card-image img {
+  width: 37px !important;
+  height: 35px !important;
+  margin-bottom: 10px !important;
+}
+.card-icon {
+  float: right;
+}
+.cards-footer input[type="checkbox"],
+input[type="radio"] {
+  background-repeat: no-repeat;
+}
+.cards-footer input[type="checkbox"]:checked::before {
+  display: none;
+}
+.custom-alert {
+  padding: 10px;
+  background: #e9e9e9;
+}
+.shopgrowth-modal .modal-dialog {
+  max-width: 660px;
+}
+.shopgrowth-modal .modal-dialog input[type="text"],
+input[type="email"],
+input[type="password"] {
+  min-height: 40px;
+}
+.smtp-enc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.enc-label {
+  margin-left: 8px;
+  margin-top: -5px;
+}

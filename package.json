@@ -1,0 +1,32 @@
+{
+  "name": "shopgrowth-store",
+  "version": "1.0.0",
+  "description": "A React JS WordPress Plugin Starter",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wppaw/tidysmtp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wppaw/tidysmtp/issues"
+  },
+  "homepage": "https://github.com/wppaw/tidysmtp#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "^26.13.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "axios": "^1.5.1",
+    "react-router-dom": "^6.16.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "shopgrowth/store",
+  "autoload": {
+    "psr-4": {
+      "ShopGrowth\\Store\\": "includes/"
+    }
+  },
+  "authors": [
+    {
+      "name": "raihan islam"
+    }
+  ]
+}
